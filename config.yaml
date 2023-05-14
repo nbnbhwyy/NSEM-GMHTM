@@ -1,0 +1,13 @@
+para:
+  dataset: 'nips'
+  batch_size:  512
+  epochs: 2000
+  hidden_num: 300
+  learning_rate: 5.e-3
+  topic_num: 8
+  max_topic_num: 8
+  topic_num_1: 8
+  topic_num_2: 32
+  topic_num_3: 128
+  emb_type: 'glove'
+  vocab_num: 3531
